@@ -1,0 +1,4 @@
+class Kupu {
+    void gerak() {
+    }
+}
